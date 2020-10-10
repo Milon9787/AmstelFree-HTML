@@ -19,3 +19,13 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'OpenSansBold';
+    src: url('OpenSansBold/OpenSansBold.eot');
+    src: url('OpenSansBold/OpenSansBold.eot') format('embedded-opentype'),
+         url('OpenSansBold/OpenSansBold.woff2') format('woff2'),
+         url('OpenSansBold/OpenSansBold.woff') format('woff'),
+         url('OpenSansBold/OpenSansBold.ttf') format('truetype'),
+         url('OpenSansBold/OpenSansBold.svg#OpenSansBold') format('svg');
+}
+

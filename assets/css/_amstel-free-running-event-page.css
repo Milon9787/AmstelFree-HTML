@@ -1,0 +1,140 @@
+/*
+-----------------------
+.afrp-event-page-sec-wrp
+-----------------------
+*/
+.afrp-event-page-sec-wrp{
+	padding-bottom: 75px;
+}
+.afrp-event-page-sec-wrp .afrp-image-text-gird-block-cntlr {
+    margin-top: -140px;
+}
+.afrp-event-page-sec-wrp .afrp-image-text-gird-block {
+    padding: 25px 110px 0 155px;
+}
+.afrp-event-page-module a{
+	display: inline-block;
+	vertical-align: baseline;
+	text-decoration: none;
+	font-size: 13px;
+	line-height: 15px;
+	color: #fff;
+	text-transform: uppercase;
+	background: #BCA279;
+	border-radius: 50px;
+	width: 73px;
+	height: 23px;
+	text-align: center;
+	padding: 4px 10px 5px;
+	font-weight: 700;
+}
+.afrp-event-page-module a:hover{
+	background: #004C9B;
+}
+.afrp-event-page-module span{
+	display: inline-block;
+	vertical-align: baseline;
+	font-size: 12px;
+	line-height: 14px;
+	color: #004C9B;
+	padding-left: 20px;
+	font-family: 'OpenSansBold';
+}
+.afrp-event-page-module-title{
+	display: block;
+	font-size: 46px;
+	line-height: 1;
+	color: #004C9B;
+	text-transform: uppercase;
+	font-weight: 900;
+	margin-bottom: 25px;
+	margin-top: 18px;
+}
+.afrp-event-two-part-wrp,
+.afrp-event-page-dsc{
+	padding-top: 70px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+.afrp-event-page-dsc span{
+	display: inline-block;
+	vertical-align: baseline;
+	font-size: 20px;
+	line-height: 36px;
+	color: #004C9B;
+	font-weight: 700;
+	padding-bottom: 30px;
+}
+.afrp-event-page-dsc p{
+	margin-bottom: 30px;
+	line-height: 1.6;
+}
+
+.afrp-event-map-lft{
+	width: 59%;
+	float: left;
+}
+.afrp-event-map-dsc span{
+	display: inline-block;
+	vertical-align: baseline;
+	text-decoration: none;
+	font-size: 20px;
+	line-height: 22px;
+	color: #004C9B;
+	font-weight: 700;
+}
+.afrp-event-map-dsc p{
+	font-size: 16px;
+	line-height: 18px;
+	color: #004C9B;
+	margin-bottom: 20px;
+}
+#eventgooglemap{
+	height: 314px;
+}
+.afrp-event-gallery-rgt{
+	width: 41%;
+	float: right;
+	padding-left: 50px;
+}
+.afrp-event-two-part-wrp{
+	padding-bottom: 70px;
+}
+.afrp-event-gallery-wrp ul{
+	margin: 0 -2px;
+}
+.afrp-event-gallery-wrp ul li{
+	float: left;
+	width: 33.3333%;
+	padding: 0 2px 3px;
+}
+.afrp-event-gallery-img{
+	height: 102px !important;
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+	background-position: center center !important;
+}
+.afrp-grid-loadmore-btn{
+	text-align: center;
+}
+.afrp-grid-loadmore-btn a{
+	display: inline-block;
+	vertical-align: baseline;
+	font-size: 12px;
+	line-height: 14px;
+	color: #004C9B;
+	text-transform: uppercase;
+	font-weight: 700;
+	text-decoration:none;
+	padding-bottom: 8px;
+	position: relative;
+}
+.afrp-grid-loadmore-btn a:after{
+	content: "";
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	height: 2px;
+	background:#004C9B;
+}

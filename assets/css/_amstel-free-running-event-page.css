@@ -138,3 +138,75 @@
 	height: 2px;
 	background:#004C9B;
 }
+
+/*
+-----------------------------
+ relevant-evnt-slider-sec-wrp
+-----------------------------
+*/
+.relevant-evnt-slider-sec-wrp{
+	padding-top: 75px;
+	padding-bottom: 90px;
+	position: relative;
+}
+.relevant-evnt-slider-sec-wrp:after{
+	content: "";
+	position: absolute;
+	left: 0;
+	top: 0;
+	right: 0;
+	background:#004C9B;
+	height: 260px;
+	z-index: 1;
+}
+.relevant-evnt-title{
+	display: block;
+	font-size: 40px;
+	line-height: 1;
+	color: #FFFFFF;
+	font-weight: 900;
+	margin-bottom: 55px;
+	text-transform: uppercase;
+	text-align: center;
+}
+.relevant-evnt-slider-cntlr{
+	position: relative;
+	z-index: 2;
+}
+.relevant-evnt-slider .relevant-evnt-slide-item{
+	display: none;
+}
+.relevant-evnt-slider .relevant-evnt-slide-item:first-child{
+	display: block;
+}
+.relevant-evnt-slider.slick-initialized .relevant-evnt-slide-item{
+	display: block;
+}
+.relevant-evnt-slide-item{
+	padding: 0 15px;
+}
+.relevant-evnt-slide-item-img{
+	height: 260px !important;
+}
+.relevant-evnt-slide-item-dsc{
+	background:#F4F4F4;
+	padding: 20px 22px 30px;
+}
+.relevant-evnt-slide-item-dsc span{
+	display: inline-block;
+	vertical-align: baseline;
+	font-size: 14px;
+	line-height: 16px;
+	color: #004C9B;
+	font-weight: 700;
+	padding-bottom: 15px;
+}
+.relevant-evnt-slide-item-dsc-title{
+	display: block;
+	font-size: 24px;
+	line-height: 1.1;
+	font-weight: 900;
+	color: #004C9B;
+	text-transform: uppercase;
+	margin-bottom: 0;
+}

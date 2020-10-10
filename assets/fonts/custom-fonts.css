@@ -1,11 +1,21 @@
+@font-face {
+    font-family: 'HelveticaNeueCyr-Medium';
+    src: url('HelveticaNeueCyr-Medium/HelveticaNeueCyr-Medium.eot?#iefix') format('embedded-opentype'),
+    url('HelveticaNeueCyr-Medium/HelveticaNeueCyr-Medium.otf')  format('opentype'),
+    url('HelveticaNeueCyr-Medium/HelveticaNeueCyr-Medium.woff') format('woff'),
+    url('HelveticaNeueCyr-Medium/HelveticaNeueCyr-Medium.ttf')  format('truetype'),
+    url('HelveticaNeueCyr-Medium/HelveticaNeueCyr-Medium.svg#HelveticaNeueCyr-Medium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
 
 @font-face {
-    font-family: 'LatoRegular';
-    src: url('LatoRegular/LatoRegular.eot');
-    src: url('LatoRegular/LatoRegular.eot') format('embedded-opentype'),
-         url('LatoRegular/LatoRegular.woff2') format('woff2'),
-         url('LatoRegular/LatoRegular.woff') format('woff'),
-         url('LatoRegular/LatoRegular.ttf') format('truetype'),
-         url('LatoRegular/LatoRegular.svg#LatoRegular') format('svg');
+    font-family: 'HelveticaNeueCyr-Roman';
+    src: url('HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.eot?#iefix') format('embedded-opentype'),
+    url('HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.otf')  format('opentype'),
+    url('HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.woff') format('woff'),
+    url('HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.ttf')  format('truetype'),
+    url('HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.svg#HelveticaNeueCyr-Roman') format('svg');
     font-weight: normal;
+    font-style: normal;
 }
